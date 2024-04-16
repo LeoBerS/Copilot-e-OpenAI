@@ -18,6 +18,11 @@ No Portal do Azure (portal.azure.com) criar um recurso de inteligência virtual,
 Passo 2: Portal AI Vision Studio
 Após criar o seu serviço de inteligencia virtual do Azure, basta abrir o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar.
 
+
+![Extract text from images](https://github.com/LeoBerS/Copilot-e-OpenAI/assets/154366315/6bb5c53e-33a4-41ce-8713-031aa141b265)
+
+![OCR](https://github.com/LeoBerS/Copilot-e-OpenAI/assets/154366315/6a086c1a-8f35-4623-bc4b-7778e9523a5c)
+
 ![Azure AI Vision Studio](https://github.com/LeoBerS/Copilot-e-OpenAI/assets/154366315/adebf469-ba3e-4720-8c92-879571d96f97)
 
 
